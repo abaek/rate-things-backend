@@ -1,0 +1,746 @@
+[
+   {
+      "title":"Gran Torino",
+      "rating":7
+   },
+   {
+      "title":"Invictus",
+      "rating":8
+   },
+   {
+      "title":"We're The Millers",
+      "rating":6
+   },
+   {
+      "title":"Captain Philips",
+      "rating":4
+   },
+   {
+      "title":"The Ides of March",
+      "rating":4
+   },
+   {
+      "title":"Ponyo",
+      "rating":6
+   },
+   {
+      "title":"Frozen",
+      "rating":8
+   },
+   {
+      "title":"Tangeled",
+      "rating":7
+   },
+   {
+      "title":"Brave",
+      "rating":7
+   },
+   {
+      "title":"The Illusionist",
+      "rating":8
+   },
+   {
+      "title":"Monster's University",
+      "rating":5
+   },
+   {
+      "title":"Linsanity",
+      "rating":4
+   },
+   {
+      "title":"The Hangover",
+      "rating":7
+   },
+   {
+      "title":"The Secret Life of Walter Mitty",
+      "rating":5
+   },
+   {
+      "title":"Silver Linings Playbook",
+      "rating":6
+   },
+   {
+      "title":"The Wolf of Wall Street",
+      "rating":5
+   },
+   {
+      "title":"The Departed",
+      "rating":3
+   },
+   {
+      "title":"The Lego Movie",
+      "rating":6
+   },
+   {
+      "title":"Princess Mononoke",
+      "rating":2
+   },
+   {
+      "title":"The Adjustment Bureau",
+      "rating":8
+   },
+   {
+      "title":"The Wind Rises",
+      "rating":6
+   },
+   {
+      "title":"Spirited Away",
+      "rating":7
+   },
+   {
+      "title":"Castle in the Sky",
+      "rating":7
+   },
+   {
+      "title":"12 Years a Slave",
+      "rating":5
+   },
+   {
+      "title":"Her",
+      "rating":3
+   },
+   {
+      "title":"Captain America 2",
+      "rating":4
+   },
+   {
+      "title":"42",
+      "rating":6
+   },
+   {
+      "title":"Insidious",
+      "rating":4
+   },
+   {
+      "title":"Neighbours",
+      "rating":9
+   },
+   {
+      "title":"500 Days of Summer",
+      "rating":7
+   },
+   {
+      "title":"Edge of Tomorrow",
+      "rating":8
+   },
+   {
+      "title":"The Blind Side",
+      "rating":7
+   },
+   {
+      "title":"The Way Way Back",
+      "rating":5
+   },
+   {
+      "title":"The Intouchables",
+      "rating":6
+   },
+   {
+      "title":"The Hangover Part II",
+      "rating":5
+   },
+   {
+      "title":"The World's End",
+      "rating":4
+   },
+   {
+      "title":"The Fault in our Stars",
+      "rating":7
+   },
+   {
+      "title":"Omar",
+      "rating":6
+   },
+   {
+      "title":"An Education",
+      "rating":6
+   },
+   {
+      "title":"The Notebook",
+      "rating":8
+   },
+   {
+      "title":"How to train your dragon 2",
+      "rating":7
+   },
+   {
+      "title":"Snowpiercer",
+      "rating":5
+   },
+   {
+      "title":"Moneyball",
+      "rating":6
+   },
+   {
+      "title":"High School Musical 3",
+      "rating":6
+   },
+   {
+      "title":"Dawn of the Planet of the Apes",
+      "rating":8
+   },
+   {
+      "title":"Catch me if you can",
+      "rating":6
+   },
+   {
+      "title":"Boyhood",
+      "rating":6
+   },
+   {
+      "title":"Good Will Hunting",
+      "rating":6
+   },
+   {
+      "title":"Chef",
+      "rating":7
+   },
+   {
+      "title":"The Grand Budapest Hotel",
+      "rating":6
+   },
+   {
+      "title":"22 Jump Street",
+      "rating":7
+   },
+   {
+      "title":"Million Dollar Arm",
+      "rating":8
+   },
+   {
+      "title":"The Giver",
+      "rating":6
+   },
+   {
+      "title":"Jersey Boys",
+      "rating":5
+   },
+   {
+      "title":"The Perks of Being a Wallflower",
+      "rating":8
+   },
+   {
+      "title":"The Hunger Games Mockingjay: Part 1",
+      "rating":5
+   },
+   {
+      "title":"The Maze Runner",
+      "rating":7
+   },
+   {
+      "title":"Boiler Room",
+      "rating":6
+   },
+   {
+      "title":"Guardians of the Galaxy",
+      "rating":6
+   },
+   {
+      "title":"The Theory of Everything",
+      "rating":3
+   },
+   {
+      "title":"X-men days of future past",
+      "rating":7
+   },
+   {
+      "title":"When the game stands tall",
+      "rating":7
+   },
+   {
+      "title":"If I Stay",
+      "rating":9
+   },
+   {
+      "title":"Rush",
+      "rating":5
+   },
+   {
+      "title":"Love Actually",
+      "rating":6
+   },
+   {
+      "title":"Christmas Vacation",
+      "rating":1
+   },
+   {
+      "title":"American Hustle",
+      "rating":3
+   },
+   {
+      "title":"The Interview",
+      "rating":8
+   },
+   {
+      "title":"Interstellar",
+      "rating":6
+   },
+   {
+      "title":"The Judge",
+      "rating":5
+   },
+   {
+      "title":"Into the Woods",
+      "rating":5
+   },
+   {
+      "title":"The Imitation Game",
+      "rating":7
+   },
+   {
+      "title":"Gone Girl",
+      "rating":6
+   },
+   {
+      "title":"Whiplash",
+      "rating":7
+   },
+   {
+      "title":"Project Almanac",
+      "rating":6
+   },
+   {
+      "title":"Kingsmen",
+      "rating":7
+   },
+   {
+      "title":"SpongeBob movie",
+      "rating":2
+   },
+   {
+      "title":"Selma",
+      "rating":3
+   },
+   {
+      "title":"Foxcatcher",
+      "rating":2
+   },
+   {
+      "title":"Divergent",
+      "rating":6
+   },
+   {
+      "title":"Kal Ho Naa Ho",
+      "rating":5
+   },
+   {
+      "title":"The Last Five Years",
+      "rating":7
+   },
+   {
+      "title":"Zardoz",
+      "rating":1
+   },
+   {
+      "title":"Non Stop",
+      "rating":5
+   },
+   {
+      "title":"The Fighter",
+      "rating":5
+   },
+   {
+      "title":"Big Hero 6",
+      "rating":9
+   },
+   {
+      "title":"Unbroken",
+      "rating":5
+   },
+   {
+      "title":"Song of the Sea",
+      "rating":6
+   },
+   {
+      "title":"Lucy",
+      "rating":5
+   },
+   {
+      "title":"Avengers: Age of Ultron",
+      "rating":5
+   },
+   {
+      "title":"The Spectacular Now",
+      "rating":6
+   },
+   {
+      "title":"The Gambler",
+      "rating":5
+   },
+   {
+      "title":"The Book of Life",
+      "rating":7
+   },
+   {
+      "title":"John Wick",
+      "rating":4
+   },
+   {
+      "title":"McFarland",
+      "rating":6
+   },
+   {
+      "title":"Chappie",
+      "rating":5
+   },
+   {
+      "title":"Everything Before Us",
+      "rating":9
+   },
+   {
+      "title":"Wreck it Ralph",
+      "rating":6
+   },
+   {
+      "title":"Insurgent",
+      "rating":4
+   },
+   {
+      "title":"Pitch Perfect 2",
+      "rating":8
+   },
+   {
+      "title":"Mad Max",
+      "rating":3
+   },
+   {
+      "title":"Ex machina",
+      "rating":5
+   },
+   {
+      "title":"Southpaw",
+      "rating":5
+   },
+   {
+      "title":"The man from U.N.C.L.E.",
+      "rating":5
+   },
+   {
+      "title":"Jurassic World",
+      "rating":7
+   },
+   {
+      "title":"The Longest Ride",
+      "rating":7
+   },
+   {
+      "title":"The Hobbit: An Unexpected Journey",
+      "rating":3
+   },
+   {
+      "title":"50/50",
+      "rating":6
+   },
+   {
+      "title":"Drinking Buddies",
+      "rating":5
+   },
+   {
+      "title":"Spy",
+      "rating":6
+   },
+   {
+      "title":"Inside Out",
+      "rating":8
+   },
+   {
+      "title":"The Martian",
+      "rating":7
+   },
+   {
+      "title":"Draft Day",
+      "rating":6
+   },
+   {
+      "title":"Paper Towns",
+      "rating":5
+   },
+   {
+      "title":"Dope",
+      "rating":6
+   },
+   {
+      "title":"Maze Runner: The Scorch Trials",
+      "rating":3
+   },
+   {
+      "title":"Hunger Games: Mockingjay Part II",
+      "rating":7
+   },
+   {
+      "title":"The Ridiculous 6",
+      "rating":4
+   },
+   {
+      "title":"Moonrise Kingdom",
+      "rating":5
+   },
+   {
+      "title":"Home",
+      "rating":5
+   },
+   {
+      "title":"The Intern",
+      "rating":9
+   },
+   {
+      "title":"Pawn Sacrifice",
+      "rating":5
+   },
+   {
+      "title":"We Are Your Friends",
+      "rating":5
+   },
+   {
+      "title":"Straight Outta Compton",
+      "rating":4
+   },
+   {
+      "title":"Jobs",
+      "rating":6
+   },
+   {
+      "title":"Kung Fu Panda 2",
+      "rating":4
+   },
+   {
+      "title":"Burnt",
+      "rating":7
+   },
+   {
+      "title":"Zootopia",
+      "rating":7
+   },
+   {
+      "title":"Brotherly Love",
+      "rating":5
+   },
+   {
+      "title":"Spectre",
+      "rating":4
+   },
+   {
+      "title":"Kung Fu Panda 3",
+      "rating":3
+   },
+   {
+      "title":"Fruitvale Station",
+      "rating":6
+   },
+   {
+      "title":"The Witch",
+      "rating":3
+   },
+   {
+      "title":"The Big Short",
+      "rating":5
+   },
+   {
+      "title":"Kung Fu Panda 3",
+      "rating":4
+   },
+   {
+      "title":"Deadpool",
+      "rating":6
+   },
+   {
+      "title":"Captain America Civil War",
+      "rating":6
+   },
+   {
+      "title":"The Jungle Book",
+      "rating":4
+   },
+   {
+      "title":"City of God",
+      "rating":8
+   },
+   {
+      "title":"Neighbours 2",
+      "rating":7
+   },
+   {
+      "title":"The Nice Guys",
+      "rating":5
+   },
+   {
+      "title":"A Walk to Remember",
+      "rating":4
+   },
+   {
+      "title":"Before We Go",
+      "rating":4
+   },
+   {
+      "title":"Now You See Me 2",
+      "rating":4
+   },
+   {
+      "title":"Finding Dory",
+      "rating":8
+   },
+   {
+      "title":"Girl With The Dragon Tattoo",
+      "rating":5
+   },
+   {
+      "title":"Race",
+      "rating":7
+   },
+   {
+      "title":"Lights Out",
+      "rating":3
+   },
+   {
+      "title":"Nerve",
+      "rating":6
+   },
+   {
+      "title":"Me Before You",
+      "rating":6
+   },
+   {
+      "title":"The Garden of Words",
+      "rating":7
+   },
+   {
+      "title":"5 Centimetres per Second",
+      "rating":7
+   },
+   {
+      "title":"The Place Promised in Our Early Days",
+      "rating":6
+   },
+   {
+      "title":"The Man Who Knew Infinity",
+      "rating":4
+   },
+   {
+      "title":"Children Who Chase Lost Voices",
+      "rating":5
+   },
+   {
+      "title":"Arrival",
+      "rating":10
+   },
+   {
+      "title":"Doctor Strange",
+      "rating":4
+   },
+   {
+      "title":"23 Blast",
+      "rating":5
+   },
+   {
+      "title":"Fantastic Beasts",
+      "rating":6
+   },
+   {
+      "title":"Maleficent",
+      "rating":7
+   },
+   {
+      "title":"The Beauty Inside",
+      "rating":7
+   },
+   {
+      "title":"Sausage Party",
+      "rating":4
+   },
+   {
+      "title":"Snowden",
+      "rating":4
+   },
+   {
+      "title":"Ben-Hur",
+      "rating":7
+   },
+   {
+      "title":"Lo and Behold",
+      "rating":2
+   },
+   {
+      "title":"Twenty",
+      "rating":7
+   },
+   {
+      "title":"La La Land",
+      "rating":10
+   },
+   {
+      "title":"Nothing Hill",
+      "rating":6
+   },
+   {
+      "title":"Passengers",
+      "rating":6
+   },
+   {
+      "title":"Logan",
+      "rating":4
+   },
+   {
+      "title":"What If",
+      "rating":5
+   },
+   {
+      "title":"The Accountant",
+      "rating":6
+   },
+   {
+      "title":"Money Monster",
+      "rating":5
+   },
+   {
+      "title":"Jackie",
+      "rating":2
+   },
+   {
+      "title":"Your Name",
+      "rating":6
+   },
+   {
+      "title":"Kubo and the Two Strings",
+      "rating":7
+   },
+   {
+      "title":"Wonder Woman",
+      "rating":7
+   },
+   {
+      "title":"Baby Driver",
+      "rating":5
+   },
+   {
+      "title":"Spiderman Homecoming",
+      "rating":6
+   },
+   {
+      "title":"Guardians of the Galaxy 2",
+      "rating":6
+   },
+   {
+      "title":"Lion",
+      "rating":7
+   },
+   {
+      "title":"King Arthur",
+      "rating":9
+   },
+   {
+      "title":"Founder",
+      "rating":7
+   },
+   {
+      "title":"The Longest Yard",
+      "rating":4
+   },
+   {
+      "title":"Creed",
+      "rating":7
+   },
+   {
+      "title":"Black Panther",
+      "rating":8
+   }
+]

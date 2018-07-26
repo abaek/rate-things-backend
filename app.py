@@ -1,11 +1,12 @@
 from flask import Flask, jsonify
 from flask_cors import CORS
+import json
 import os
 
 app = Flask(__name__)
 CORS(app)
 
-movies = [
+sample_data = [
     {
         'id': 1,
         'title': u'Buy groceries',
@@ -28,9 +29,15 @@ def hello():
 @app.route('/data', methods=['GET'])
 def get_data():
     print("get_data called")
-    print("get_data called 2")
-    return jsonify({'movies': movies})
+    return jsonify({'movies': sample_data})
+
+@app.route('/movies', methods=['GET'])
+def get_movies():
+    print("get_movies_called")
+    with open('movies.json') as f:
+        movies = json.load(f)
+        return jsonify(movies)
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0')
+    app.run()
 
