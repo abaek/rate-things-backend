@@ -34,9 +34,9 @@ def get_data():
 @app.route('/movies', methods=['GET'])
 def get_movies():
     print("get_movies_called")
-    with open('movies.json') as f:
+    with open('movies.json', 'r') as f:
         movies = json.load(f)
-        return jsonify(movies)
+    return jsonify(movies)
 
 if __name__ == '__main__':
     app.run()
